@@ -19,21 +19,21 @@ Repositorio con la resolución de los 70 ejercicios del Laboratorio III, organiz
 
 ## Estructura del repositorio
 
-LaboratorioIII/
-├── N1_Ejercicios/
-│   ├── N1_Ejercicio01/
-│   ├── ...
-├── N2_Ejercicios/
-│   ├── N2_Ejercicio01/
-│   ├── ...
-├── N3_Ejercicios/
-│   ├── N3_Ejercicio01/
-│   ├── ...
+    LaboratorioIII/
+    ├── N1_Ejercicios/
+    │   ├── N1_Ejercicio01/
+    │   ├── ...
+    ├── N2_Ejercicios/
+    │   ├── N2_Ejercicio01/
+    │   ├── ...
+    ├── N3_Ejercicios/
+    │   ├── N3_Ejercicio01/
+    │   ├── ...
 
 Cada ejercicio se encuentra en su propia carpeta con su respectivo archivo `.java`.
 
 ## Cómo ejecutar un ejercicio
 
-cd N1_Ejercicios/N1_Ejercicio01
-javac N1_Ejercicio01.java
-java N1_Ejercicio01
+    cd N1_Ejercicios/N1_Ejercicio01
+    javac N1_Ejercicio01.java
+    java N1_Ejercicio01
